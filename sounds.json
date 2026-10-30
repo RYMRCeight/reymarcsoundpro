@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "banks": [
+    "All Sounds",
+    "Opening",
+    "Sound Effects",
+    "Games",
+    "Transitions",
+    "Awarding"
+  ],
+  "settings": {
+    "playMode": "both"
+  },
+  "sounds": []
+}
